@@ -1,0 +1,987 @@
+.velikikontejner {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: crimson;
+}
+
+body {
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Mada";
+  src: url("./Mada-VariableFont_wght.ttf");
+}
+
+
+.text0 {
+  color: white;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.55;
+  font-family: Mada;
+}
+
+.div1 {
+  width: 100%;
+  height: 500px;
+  background-color: #48d8a4;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.div2 {
+  width: 100%;
+
+  background-color: #f6e6e0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.manjidiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  height: 1000px;
+  background-color: #f6e6e0;
+
+}
+
+.manjidiv2 {
+  width: 40%;
+  height: 800px;
+  background-color: #f6e6e0;
+
+}
+
+.div3 {
+  width: 100%;
+  height: 1000px;
+  display: flex;
+  background-color: #eeb4aa;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.manjidiv3 {
+  width: 58%;
+  height: 700px;
+
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.manjidiv4 {
+  width: 58%;
+  height: 150px;
+
+  display: flex;
+  flex-direction: column;
+
+}
+
+.text {
+  color: #f0535d;
+  font-size: 25px;
+  font-family: "Crimson Text", serif;
+  line-height: 1.55;
+  font-family: Mada;
+
+}
+
+.text2 {
+  color: #1c2273;
+  font-size: 35px;
+  font-family: Mada, sans serif;
+  line-height: 1.55;
+  font-family: Mada;
+}
+
+
+.text15 {
+  color: #1c2273;
+  font-size: 35px;
+  font-family: Mada, sans serif;
+  line-height: 1.55;
+  font-family: Mada;
+}
+
+.text3 {
+  color: white;
+  font-size: 30px;
+  font-family: "Crimson Text", serif;
+  line-height: 1.55;
+  font-family: Mada;
+}
+
+.text4 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.55;
+  font-family: Mada;
+}
+
+.manjidiv5 {
+  width: 100%;
+  height: 50vh;
+
+  display: flex;
+  flex-direction: row;
+}
+
+.slika {
+  width: 33.3%;
+  height: 450px;
+  display: flex;
+
+  background-image: url("html1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 70%;
+  justify-content: center;
+}
+
+.slika p {
+  align-self: flex-end;
+  font-family: Mada;
+  font-size: xx-large;
+}
+
+.slika2 {
+  width: 33.3%;
+  height: 450px;
+  display: flex;
+
+  background-image: url("CSS1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 70%;
+  text-align: end;
+  justify-content: center;
+}
+
+.slika2 p {
+  align-self: flex-end;
+  font-family: Mada;
+  font-size: xx-large;
+}
+
+.slika3 {
+  width: 33.3%;
+  height: 450px;
+  display: flex;
+
+  background-image: url("prilagođavanje.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 70%;
+  text-align: end;
+  justify-content: center;
+}
+
+.slika3 p {
+  align-self: flex-end;
+  font-family: Mada;
+  font-size: xx-large;
+}
+
+.text5 {
+  color: #7689d8;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.55;
+  font-family: Mada;
+}
+
+.div4 {
+  width: 100%;
+
+  background-color: #7689d8;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.manjidiv6 {
+
+  width: 100%;
+  height: 800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.manjidiv27 {
+
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.manjidiv7 {
+
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.manjidiv32 {
+
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.manjidiv30 {
+
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.manjidiv29 {
+
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.manjidiv28 {
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.manjidiv8 {
+
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.manjidiv31 {
+
+  width: 35%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.slika4 {
+  width: 95%;
+  height: 250px;
+  display: flex;
+  background-color: aqua;
+  background-image: url("ScreenShot 2.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 50px;
+  border-radius: 5%;
+
+
+}
+
+.manjidiv9 {
+
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.manjidiv9 {
+
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.manjidiv10 {
+
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.manjidiv11 {
+
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.manjidiv12 {
+
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.manjidiv13 {
+
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.slika5 {
+  width: 95%;
+  height: 250px;
+  display: flex;
+  background-color: aqua;
+  background-image: url("Screenshot 2024-05-12 202417.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 50px;
+  margin-left: 25px;
+  border-radius: 5%;
+
+}
+
+.text6 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #eeb4aa;
+  line-height: 1.55;
+  font-family: Mada;
+}
+
+
+.slika6 {
+  background-image: url("ScreenShot 2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 50px;
+  width: 95%;
+  height: 260px;
+  display: flex;
+  background-color: aqua;
+  margin-right: 45px;
+  border-radius: 5%;
+
+}
+
+.slika7 {
+  background-image: url("Screenshot\ 2024-05-13\ 170008.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 50px;
+  width: 95%;
+  height: 260px;
+  display: flex;
+  background-color: aqua;
+  margin-left: 25px;
+  border-radius: 5%;
+
+}
+
+.slika9 {
+  width: 95%;
+  height: 260px;
+  display: flex;
+  background-color: aqua;
+  background-image: url("Snimka\ zaslona\ 2024-05-13\ 192727.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-top: 50px;
+  margin-left: 25px;
+  border-radius: 5%;
+
+}
+
+.slika11 {
+  width: 70%;
+  border-radius: 0%;
+
+}
+
+.slika8 {
+  width: 70%;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.biografija {
+  line-height: 1.55;
+  font-size: 20px;
+  font-family: Mada;
+}
+
+.div5 {
+  width: 100%;
+
+  display: flex;
+  background-color: #a1eacd;
+  flex-direction: column;
+
+}
+
+.manjidiv14 {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  background-color: aliceblue;
+
+}
+
+.manjidiv15 {
+  width: 70%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+
+
+}
+
+.manjidiv16 {
+  width: 70%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+
+}
+
+.manjidiv17 {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.manjidiv18 {
+  width: 23%;
+  height: 500px;
+
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+  text-align: center;
+
+}
+
+.manjidiv19 {
+  width: 80%;
+  float: left;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.manjidiv20 {
+  width: 23%;
+  height: 500px;
+
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  text-align: center;
+
+}
+
+.text7 {
+  line-height: 1.55;
+  font-size: 15px;
+  font-family: Mada;
+
+}
+
+.text7 {
+  line-height: 1.55;
+  font-size: 30px;
+  font-family: Mada;
+
+}
+
+.manjidiv21 {
+  width: 40%;
+  height: 250px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: top 100px;
+  ;
+
+}
+
+
+.manjidiv22 {
+  width: 40%;
+  height: 250px;
+
+  display: flex;
+  flex-direction: column;
+
+}
+
+.text8 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.55;
+  font-family: Mada;
+
+}
+
+.slika10 {
+  width: 70%;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.div {
+  width: 100vw;
+  height: 80px;
+  z-index: 10;
+  background-color: rgba(57, 79, 244, 0.9);
+  display: flex;
+  position: fixed;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+}
+
+.text9 {
+  color: aliceblue;
+  font-family: "Crimson Text", serif;
+  line-height: 1.55;
+  font-size: larger;
+}
+
+.manjidiv23 {
+
+  width: 10%;
+  height: 50px;
+  display: flex;
+
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.manjidiv24 {
+
+  width: 10%;
+  height: 50px;
+
+  display: flex;
+
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.manjidiv26 {
+  display: flex;
+  height: 300px;
+  width: 30%;
+  margin-left: 50px;
+}
+
+
+@media screen and (max-width:480px) {
+  .velikikontejner {
+    width: 100%;
+  }
+
+  .div2 {
+    flex-direction: column;
+    display: grid;
+    height: 1400px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .manjidiv {
+    height: 450px;
+    width: 50%;
+    justify-self: center;
+  }
+
+  .slika7 {
+    margin-left: 0%;
+  }
+
+  .slika8 {
+    margin-left: 0%;
+    margin-top: 0%;
+    width: 100%;
+  }
+
+  .manjidiv2 {
+    margin-left: 20px;
+    justify-self: start;
+    align-self: start;
+    width: 95%;
+    justify-self: center;
+    align-self: center;
+  }
+
+  .div3 {
+    justify-content: center;
+    align-items: center;
+    height: 1750px;
+  }
+
+  .manjidiv3 {
+    justify-self: center;
+    margin-bottom: 250px;
+  }
+
+  .div1 {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .manjidiv26 {
+    margin-top: 150px;
+    width: 50%;
+    margin-left: 25px;
+  }
+
+  .slika5 {
+    margin-left: 0%;
+  }
+
+  .manjidiv4 {
+    margin-top: 350px;
+  }
+
+  .manjidiv8 {
+    margin-bottom: 10px;
+    margin-left: 25px;
+
+  }
+
+  .manjidiv9 {
+    height: 900px;
+    flex-direction: column;
+    margin-top: 200px;
+  }
+
+  .manjidiv10 {
+    height: 900px;
+    margin-top: 100px;
+    flex-direction: column-reverse;
+  }
+
+  .manjidiv11 {
+    height: 900px;
+    flex-direction: column;
+  }
+
+  .manjidiv12 {
+    height: 900px;
+    flex-direction: column-reverse;
+
+  }
+
+  .manjidiv19 {
+    margin-left: 50px;
+  }
+  .div4 {
+    height: 4900px;
+    display: flex;
+
+  }
+  .manjidiv16 {
+    height: 800px;
+    flex-direction: column-reverse;
+    justify-content: center;
+    display: grid;
+    display: flex;
+  }
+
+  .manjidiv17 {
+    height: 800px;
+    flex-direction: column;
+    justify-content: center;
+    display: grid;
+    display: flex;
+  }
+
+  .manjidiv28 {
+
+    width: 50%;
+  }
+
+  .manjidiv21 {
+    width: 93%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .manjidiv20 {
+    margin-left: 0px;
+    height: 350px;
+    text-align: center;
+  }
+
+  .manjidiv21 {
+    text-align: start;
+  }
+  .manjidiv5 {
+    height: 800px;
+  }
+  .manjidiv5 {
+    flex-direction: column;
+  }
+  .text0 {
+    font-size: 40px;
+  }
+
+  .text7 {
+    text-align: inherit;
+    font-size: 25px;
+  }
+
+  .div5 {
+    display: grid;
+    display: flex;
+  }
+
+  .text8 {
+    font-size: 20px;
+    text-align: justify;
+  }
+
+  .manjidiv22 {
+    width: 93%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .slika10 {
+    margin: 0%;
+    width: 100%;
+  }
+
+  .manjidiv24 {
+    margin-right: 40px;
+    margin-left: 40px;
+  }
+
+  .manjidiv18 {
+    justify-self: center;
+
+    height: 350px;
+  }
+
+  .manjidiv10 {
+    height: 800px;
+    margin-top: 100px;
+  }
+
+  .manjidiv7 {
+    width: 50%;
+    margin-left: 35px;
+  }
+
+  .manjidiv6 {
+    height: 900px;
+    
+    flex-direction: column;
+  }
+
+  .manjidiv11 {
+    height: 900px;
+  }
+
+  .manjidiv8 {
+    margin-left: 0%;
+  }
+
+  .slika9 {
+    margin-left: 0%;
+  }
+
+  .manjidiv31 {
+    width: 50%;
+    margin-left: 25px;
+  }
+
+  .manjidiv32 {
+    width: 35%;
+    margin-bottom: 100px;
+  }
+
+  .manjidiv27 {
+    margin-top: 300px;
+  }
+}
+
+
+
+
+@media screen and (min-width:481px) and (max-width:900px) {
+  .velikikontejner {
+    width: 100vw;
+  }
+
+  .div3 {
+    height: 1200px;
+    justify-content: start;
+    align-items: start;
+  }
+
+  .manjidiv3 {
+
+    margin-left: 100px;
+
+  }
+
+  .manjidiv {
+    margin-left: 100px;
+  }
+
+  .manjidiv2 {
+    margin-left: 20px;
+    margin-top: 0px;
+  }
+
+  .manjidiv23 {
+    margin-left: 90px;
+  }
+
+  .manjidiv4 {
+    margin-left: 100px;
+    margin-top: 210px;
+  }
+
+  .manjidiv8 {
+    margin-bottom: 90px;
+    margin-left: 15px;
+  }
+
+  .manjidiv19 {}
+
+  .manjidiv21 {}
+
+  .slika8 {
+    margin-left: 35px;
+  }
+
+  .manjidiv18 {}
+
+  .slika10 {
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+
+  .manjidiv22 {
+    /* margin-left: 50px; */
+  }
+
+  .text0 {
+    margin-left: 30px;
+  }
+
+  .slika11 {
+    width: 80%;
+
+  }
+
+  .text2 {
+    text-align: center;
+  }
+
+  .manjidiv5 {
+    font-size: medium;
+  }
+
+  .manjidiv9 {
+    margin-top: 80px;
+  }
+
+  .text8 {
+    font-size: 15px;
+  }
+
+  .slika12 {
+    margin-left: 1200px;
+  }
+
+  .slika10 {
+    margin-left: 35px;
+  }
+
+  .slika5 {
+    margin-left: 0px;
+  }
+
+  .slika7 {
+    margin-left: 0px;
+  }
+
+  .manjidiv6 {
+    height: 700px;
+  }
+
+  .slika9 {
+    margin-left: 0px;
+  }
+
+  .div {
+    justify-content: center;
+  }
+
+  .manjidiv17 {
+    justify-content: center;
+  }
+
+  .manjidiv16 {
+    justify-content: center;
+  }
+
+  .manjidiv24 {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+}
